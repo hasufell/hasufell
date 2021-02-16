@@ -1,6 +1,6 @@
 # hasufell
 
-- [CV](./cv.pdf)
+- [CV](https://raw.githubusercontent.com/hasufell/hasufell/master/cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/julian-ospald-2ab78ba6/)
 
 ---
